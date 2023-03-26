@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?jelly escape-by-default='true'?>
+<j:jelly xmlns:j="jelly:core" xmlns:f="/lib/form">
+    <div>
+        Contributes the <code>stepWrapper</code> step that enables instantiating custom defined Steps from Groovy.
+    </div>
+</j:jelly>
